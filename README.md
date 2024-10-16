@@ -20,6 +20,7 @@ def max_marks(marks):
     return marks[-1]
 ```
 
+
 ii)	# To find the maximum marks using the list method max().
 ```
 # DVELOPED BY: MONISH N
